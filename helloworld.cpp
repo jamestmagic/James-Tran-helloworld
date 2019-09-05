@@ -4,6 +4,6 @@
 using namespace std;
 //main method to execute
 int main(){
-  cout << "Hello World" << endl;
-  return 0;
+  cout << "Hello World" << endl; //outputs "Hello World" into console
+  return 0; //requires return value at end of main
 }
